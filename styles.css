@@ -67,3 +67,7 @@ p {
 .social-links a:hover {
     background-color: hsl(75, 94%, 57%);
 }
+
+ul.social-links {
+    list-style: none;
+}
